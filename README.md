@@ -1,4 +1,4 @@
-# Computercraft-Minesweeper
+# computercraft-minesweeper
  A Minesweeper for [ComputerCraft v1.5](https://www.computercraft.info/) written in Lua.
  
  Win the game by clearing all tiles without clearing a mine.
